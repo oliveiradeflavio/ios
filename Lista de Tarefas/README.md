@@ -50,7 +50,7 @@ Veja os [problemas abertos] (https://github.com/oliveiradeflavio/ios/issues) par
 <!-- CONTACT -->
 ## Contato
 
-Flávio Oliveira - [site](http://www.flaviodeoliveira.com.br) - fl.deoliveira@hotmail.com
+Flávio Oliveira - [LinkedIn](https://www.linkedin.com/in/fladoliveira/)
 
 Link do Projeto: [https://github.com/oliveiradeflavio/ios](https://github.com/oliveiradeflavio/ios)
 
